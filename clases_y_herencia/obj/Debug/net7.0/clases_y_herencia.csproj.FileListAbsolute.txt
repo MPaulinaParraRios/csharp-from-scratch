@@ -1,0 +1,14 @@
+C:\Proj\new_copy\clases_y_herencia\bin\Debug\net7.0\clases_y_herencia.exe
+C:\Proj\new_copy\clases_y_herencia\bin\Debug\net7.0\clases_y_herencia.deps.json
+C:\Proj\new_copy\clases_y_herencia\bin\Debug\net7.0\clases_y_herencia.runtimeconfig.json
+C:\Proj\new_copy\clases_y_herencia\bin\Debug\net7.0\clases_y_herencia.dll
+C:\Proj\new_copy\clases_y_herencia\bin\Debug\net7.0\clases_y_herencia.pdb
+C:\Proj\new_copy\clases_y_herencia\obj\Debug\net7.0\clases_y_herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj\new_copy\clases_y_herencia\obj\Debug\net7.0\clases_y_herencia.AssemblyInfoInputs.cache
+C:\Proj\new_copy\clases_y_herencia\obj\Debug\net7.0\clases_y_herencia.AssemblyInfo.cs
+C:\Proj\new_copy\clases_y_herencia\obj\Debug\net7.0\clases_y_herencia.csproj.CoreCompileInputs.cache
+C:\Proj\new_copy\clases_y_herencia\obj\Debug\net7.0\clases_y_herencia.dll
+C:\Proj\new_copy\clases_y_herencia\obj\Debug\net7.0\refint\clases_y_herencia.dll
+C:\Proj\new_copy\clases_y_herencia\obj\Debug\net7.0\clases_y_herencia.pdb
+C:\Proj\new_copy\clases_y_herencia\obj\Debug\net7.0\clases_y_herencia.genruntimeconfig.cache
+C:\Proj\new_copy\clases_y_herencia\obj\Debug\net7.0\ref\clases_y_herencia.dll
