@@ -7,12 +7,12 @@ namespace itm.csharp.basic
         {
             Console.WriteLine("Ingrese un número: ");
             int num = int.Parse(Console.ReadLine());
-            int cuad = Math.Pow(num, 2);
+            int cuad = (int)Math.Pow(num, 2);
             if (num >= 0)
             {
                 Console.WriteLine($"El cuadrado de {num} es: {cuad}.");
             }
-            else (num < 0)
+            else if(num < 0)
             {
                 Console.WriteLine("Número negativo.");
             }
@@ -68,7 +68,7 @@ namespace itm.csharp.basic
             Console.WriteLine("Ingrese el radio del circulo: ");
             double rad = double.Parse(Console.ReadLine());
             double perimetro = 2 * Math.PI * rad;
-            Console.WriteLine($"El perimetro del circulo con radio {radio} es: {perimetro}");
+            Console.WriteLine($"El perimetro del circulo con radio {rad} es: {perimetro}");
         }
     }
 
@@ -151,7 +151,7 @@ namespace itm.csharp.basic
         public void Run()
         {
             int suma = 0;
-            for (int i = 2; i <= 50; i += 2)
+            for (int i = 0; i <= 50; i += 2)
             {
                 suma += i;
             }
@@ -266,7 +266,7 @@ namespace itm.csharp.basic
                 numeros.Add(int.Parse(Console.ReadLine()));
             }
 
-            Console.WriteLine($"El número más grande de la lista es: {numeros.Min()}");
+            Console.WriteLine($"El número más pequeño de la lista es: {numeros.Min()}");
         }
     }
 
@@ -276,7 +276,7 @@ namespace itm.csharp.basic
         public void Run()
         {
             Console.WriteLine("Escribe una palabra: ");
-            string palab = Console.WriteLine().ToLower();
+            string palab = Console.ReadLine().ToLower();
             int conta = 0;
 
             for (int i = 0; i < palab.Length; i++)
